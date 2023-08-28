@@ -1,12 +1,3 @@
-//	testupDate.cpp
-//	Chris Nguyen
-//	CECS 282-04 (Tue/Thur)
-//  Program #4 due date: 10/2/2021
-// 	Due 11/2/2021
-// 
-//  I certify that this program (aside from the main function given to me) is my own original work. I did not copy any part of this program from 
-//  any other source. I further certify that I typed each and every line of code in this program.
-
 #include "upDate.h"
 #include <iostream>
 using namespace std;
