@@ -1,7 +1,7 @@
 # OperatorOverload
 Operator Overloading practice in C++
 
-## Goal
+## Instructions
 Create a C++ class containing the following operations:
 - upDate( ) – default constructor. This will set the date to May 11, 1959 (A very important date!!!)
 - upDate(int M, int D, int Y) – overloaded constructor. This will set the date to the values passed in through the parameter list represented by Month, Day and Year. If any one of the parameters is out of range, the date is set to the default date.
